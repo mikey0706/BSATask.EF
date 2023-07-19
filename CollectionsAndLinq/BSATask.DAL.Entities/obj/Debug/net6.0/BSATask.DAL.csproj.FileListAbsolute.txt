@@ -1,0 +1,14 @@
+C:\Users\poden\Desktop\collections-and-linq\CollectionsAndLinq\BSATask.DAL.Entities\bin\Debug\net6.0\BSATask.DAL.deps.json
+C:\Users\poden\Desktop\collections-and-linq\CollectionsAndLinq\BSATask.DAL.Entities\bin\Debug\net6.0\BSATask.DAL.runtimeconfig.json
+C:\Users\poden\Desktop\collections-and-linq\CollectionsAndLinq\BSATask.DAL.Entities\bin\Debug\net6.0\BSATask.DAL.dll
+C:\Users\poden\Desktop\collections-and-linq\CollectionsAndLinq\BSATask.DAL.Entities\bin\Debug\net6.0\BSATask.DAL.pdb
+C:\Users\poden\Desktop\collections-and-linq\CollectionsAndLinq\BSATask.DAL.Entities\obj\Debug\net6.0\BSATask.DAL.csproj.AssemblyReference.cache
+C:\Users\poden\Desktop\collections-and-linq\CollectionsAndLinq\BSATask.DAL.Entities\obj\Debug\net6.0\BSATask.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\poden\Desktop\collections-and-linq\CollectionsAndLinq\BSATask.DAL.Entities\obj\Debug\net6.0\BSATask.DAL.AssemblyInfoInputs.cache
+C:\Users\poden\Desktop\collections-and-linq\CollectionsAndLinq\BSATask.DAL.Entities\obj\Debug\net6.0\BSATask.DAL.AssemblyInfo.cs
+C:\Users\poden\Desktop\collections-and-linq\CollectionsAndLinq\BSATask.DAL.Entities\obj\Debug\net6.0\BSATask.DAL.csproj.CoreCompileInputs.cache
+C:\Users\poden\Desktop\collections-and-linq\CollectionsAndLinq\BSATask.DAL.Entities\obj\Debug\net6.0\BSATask.DAL.dll
+C:\Users\poden\Desktop\collections-and-linq\CollectionsAndLinq\BSATask.DAL.Entities\obj\Debug\net6.0\refint\BSATask.DAL.dll
+C:\Users\poden\Desktop\collections-and-linq\CollectionsAndLinq\BSATask.DAL.Entities\obj\Debug\net6.0\BSATask.DAL.pdb
+C:\Users\poden\Desktop\collections-and-linq\CollectionsAndLinq\BSATask.DAL.Entities\obj\Debug\net6.0\BSATask.DAL.genruntimeconfig.cache
+C:\Users\poden\Desktop\collections-and-linq\CollectionsAndLinq\BSATask.DAL.Entities\obj\Debug\net6.0\ref\BSATask.DAL.dll
